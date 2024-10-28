@@ -5,4 +5,7 @@ remote: Counting objects: 100% (34/34), done.
 remote: Compressing objects: 100% (20/20), done.
 remote: Total 34 (delta 9), reused 31 (delta 6), pack-reused 0 (from 0)
 Receiving objects: 100% (34/34), done.
-Resolving deltas: 100% (9/9), done
+ResMaking Changes
+Make your changes to the code.
+
+Stage your changes:olving deltas: 100% (9/9), done
